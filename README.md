@@ -1,6 +1,6 @@
 - 👋 Opa, eu sou Daniel Aragão! :smile:
 - 👀 Sou de Pernambuco, Brasil.
-- 🌱 Estou cursando Ciências da Computação, atualmente no 7° período.
+- 🌱 Estou cursando Ciências da Computação, atualmente no 8° período.
 - 📫 Endereço de contato: brbaadaniel@gmail.com
 
 <!---
